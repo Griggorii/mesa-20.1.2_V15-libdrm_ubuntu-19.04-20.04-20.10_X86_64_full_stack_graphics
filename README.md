@@ -19,7 +19,7 @@ News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library lib
 
 Test wayland video 4K and 8K https://www.youtube.com/watch?v=gYO1uk7vIcc
 
-Old driver mesa https://github.com/Griggorii/mesa-20.0.4_V15-libdrm_ubuntu-19.04-20.04-20.10_X86_64_full_stack_graphics
+Old driver mesa best color https://github.com/Griggorii/mesa-20.0.4_V15-libdrm_ubuntu-19.04-20.04-20.10_X86_64_full_stack_graphics
 
 Видео драйвер является переходным по сколько ещё не получены все его части и некоторые бинарники и спеки остались пока от 20.0.4
 
