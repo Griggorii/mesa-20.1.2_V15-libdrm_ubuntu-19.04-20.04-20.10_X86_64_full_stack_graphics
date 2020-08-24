@@ -5,7 +5,7 @@ Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , Ubuntu 20.10 Gr
 
 sudo apt install libpciaccess0 -y
 
-Mesa universal graphics video driver 19.04 , 20.04 , 20.10 download + instructions: https://yadi.sk/d/oLsdzkGNdRVvDg Readme install
+Mesa universal graphics video driver 19.04 , 20.04 , 20.10 download + instructions: https://yadi.sk/d/oLsdzkGNdRVvDg update binare 08.24.2020 Readme install
 
 Deb package variant mesa Ubuntu 20.10 Groovy Gorilla download: https://yadi.sk/d/uVq-SK93_aSwlw
 
