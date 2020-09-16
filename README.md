@@ -1,11 +1,11 @@
-# mesa-20.1.2_V15-libdrm_ubuntu-19.04-20.04-20.10_X86_64_full_stack_graphics
+# mesa-20.1.2_V15-libdrm_ubuntu-19.04-20.04-20.10 X86_64 full stack graphics , patent griggorii@gmail.com wayland perfomance stable 100% 09.16.2020 
 graphics , mesa , 20.1.2 , libpng12 , support , x86_64 , gallium-pipe , OpenCL , d3d , nine , vdpau , libGLX_indirect , linux , ubuntu 20.04 , ubuntu 19.04 , EGL1.4 , not freeze game play steam wayland session , libc-2.31 , old stable video driver , самая лучшая в мире гамма и цветовая контрастность в браузерах , best color gamma in browsers , запуск wayland сессии теперь быстрее , +new lib libswrAVX.so.0.0.0 , libswrAVX2.so.0.0.0
 
 Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , Ubuntu 20.10 Groovy Gorilla , not test support ubuntu 18.10.19.10 , alternative driver libglu драйвер работает даже если вы его установите и поверх новой версии mesa тем самым заменив её.
 
 sudo apt install libpciaccess0 -y
 
-Mesa universal graphics video driver 19.04 , 20.04 , 20.10 download + instructions: hhttps://yadi.sk/d/jBTWQpvNyUodgQ update binare 08.24.2020 Readme install graphics modification best colorization new technology pixelization new evolution graphics stack for the whole world
+Mesa universal graphics video driver 19.04 , 20.04 , 20.10 download + instructions: hhttps://yadi.sk/d/jBTWQpvNyUodgQ update binare 09.16.2020 Readme install graphics modification best colorization new technology pixelization new evolution graphics stack for the whole world
 
 Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285dzn
 
