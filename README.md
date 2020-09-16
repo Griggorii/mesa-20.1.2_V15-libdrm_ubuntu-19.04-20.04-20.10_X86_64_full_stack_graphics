@@ -7,8 +7,6 @@ sudo apt install libpciaccess0 -y
 
 Mesa universal graphics video driver 19.04 , 20.04 , 20.10 download + instructions: hhttps://yadi.sk/d/jBTWQpvNyUodgQ update binare 08.24.2020 Readme install graphics modification best colorization new technology pixelization new evolution graphics stack for the whole world
 
-Deb package variant mesa Ubuntu 20.10 Groovy Gorilla download: https://yadi.sk/d/uVq-SK93_aSwlw
-
 Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285dzn
 
 Драйвер может заработать не сразу и какое то время фризы в wayland будут выполните sudo rm -rf /var/cache/apparmor/* rm -rf ~/.cache/*
