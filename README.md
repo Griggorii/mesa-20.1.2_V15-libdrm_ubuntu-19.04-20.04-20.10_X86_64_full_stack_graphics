@@ -5,7 +5,7 @@ Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , Ubuntu 20.10 Gr
 
 sudo apt install libpciaccess0 -y
 
-Mesa universal graphics video driver 19.04 , 20.04 , 20.10 download + instructions: https://yadi.sk/d/jBTWQpvNyUodgQ update binare 09.16.2020 Readme install graphics modification best colorization new technology pixelization new evolution graphics stack for the whole world
+Mesa universal graphics video driver 19.04 , 20.04 , 20.10 download + instructions: https://yadi.sk/d/bOdQfaBxZg17hw update binare 17.16.2020 Readme install graphics modification best colorization new technology pixelization new evolution graphics stack for the whole world
 
 Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285dzn
 
